@@ -14,7 +14,7 @@ const PopupModal: React.FC<PopupModalProps> = ({ isOpen, onClose }) => {
       // Preload the poster image
       const img = new Image();
       img.onload = () => setImageLoaded(true);
-      img.src = '/event-poster.png';
+      img.src = 'https://raw.githubusercontent.com/Chintu1308/flashmob2025/main/public/event-poster.png';
     }
   }, [isOpen]);
 
@@ -35,7 +35,7 @@ const PopupModal: React.FC<PopupModalProps> = ({ isOpen, onClose }) => {
             {/* Flashmob Poster Image */}
             <div className="mb-6 relative">
               <img 
-                src="/event-poster.png"
+                src="https://raw.githubusercontent.com/Chintu1308/flashmob2025/main/public/event-poster.png"
                 alt="Music Carnival Flash Mob Poster" 
                 className="w-full max-w-lg mx-auto rounded-xl shadow-2xl border-4 border-gradient-to-r from-blue-400 via-cyan-400 to-teal-400"
                 style={{

@@ -10,7 +10,7 @@ const Header: React.FC = () => {
         <div className="container mx-auto px-6 py-4 flex items-center justify-between">
           <div className="flex items-center space-x-3">
             <div className="w-12 h-12 rounded-full flex items-center justify-center">
-              <img src="/partners/gccc.png" alt="Gayatri College Logo" className="w-full h-full object-cover rounded-full" />
+              <img src="https://raw.githubusercontent.com/Chintu1308/flashmob2025/main/public/partners/gccc.png" alt="Gayatri College Logo" className="w-full h-full object-cover rounded-full" />
             </div>
             <div>
               <h1 className="text-xl font-bold text-white">GCCC</h1>

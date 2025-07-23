@@ -6,39 +6,39 @@ const PartnerClubs: React.FC = () => {
   const partnerClubs = [
     {
       name: 'HOH',
-      icon: <img src="partners/hoh.png" alt="HOH" className="w-20 h-20 object-contain" />
+      icon: <img src="https://raw.githubusercontent.com/Chintu1308/flashmob2025/main/public/partners/hoh.png" alt="HOH" className="w-20 h-20 object-contain" />
     },
     {
       name: 'NSS-1',
-      icon: <img src="partners/nss.png" alt="NSS-1" className="w-12 h-12 object-contain" />
+      icon: <img src="https://raw.githubusercontent.com/Chintu1308/flashmob2025/main/public/partners/nss.png" alt="NSS-1" className="w-12 h-12 object-contain" />
     },
     {
       name: 'NSS-2',
-      icon: <img src="partners/nss.png" alt="NSS-2" className="w-12 h-12 object-contain" />
+      icon: <img src="https://raw.githubusercontent.com/Chintu1308/flashmob2025/main/public/partners/nss.png" alt="NSS-2" className="w-12 h-12 object-contain" />
     },
     {
       name: 'Rotaract',
-      icon: <img src="partners/rotaract.png" alt="Rotaract" className="w-12 h-12 object-contain" />
+      icon: <img src="https://raw.githubusercontent.com/Chintu1308/flashmob2025/main/public/partners/rotaract.png" alt="Rotaract" className="w-12 h-12 object-contain" />
     },
     {
       name: 'Vidhyadhan',
-      icon: <img src="partners/vidhyadhan.png" alt="Vidhyadhan" className="w-8 h-8 object-contain" />
+      icon: <img src="https://raw.githubusercontent.com/Chintu1308/flashmob2025/main/public/partners/vidhyadhan.png" alt="Vidhyadhan" className="w-8 h-8 object-contain" />
     },
     {
       name: 'WeR4help',
-      icon: <img src="partners/wer4help.png" alt="WeR4help" className="w-12 h-12 object-contain" />
+      icon: <img src="https://raw.githubusercontent.com/Chintu1308/flashmob2025/main/public/partners/wer4help.png" alt="WeR4help" className="w-12 h-12 object-contain" />
     },
     {
       name: 'YES',
-      icon: <img src="partners/yes.png" alt="YES" className="w-8 h-8 object-contain" />
+      icon: <img src="https://raw.githubusercontent.com/Chintu1308/flashmob2025/main/public/partners/yes.png" alt="YES" className="w-8 h-8 object-contain" />
     },
     {
       name: 'Youth for Seva',
-      icon: <img src="partners/youthforseva.png" alt="Youth for Seva" className="w-12 h-12 object-contain" />
+      icon: <img src="https://raw.githubusercontent.com/Chintu1308/flashmob2025/main/public/partners/youthforseva.png" alt="Youth for Seva" className="w-12 h-12 object-contain" />
     },
     {
       name: 'Youth for Sustainability',
-      icon: <img src="partners/youthforsustainability.png" alt="Youth for Sustainability" className="w-15 h-15 object-contain" />
+      icon: <img src="https://raw.githubusercontent.com/Chintu1308/flashmob2025/main/public/partners/youthforsustainability.png" alt="Youth for Sustainability" className="w-15 h-15 object-contain" />
     }
   ];
 

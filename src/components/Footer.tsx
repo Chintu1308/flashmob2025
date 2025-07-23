@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
           <div className="space-y-6">
             <div className="flex items-center space-x-4">
               <div className="w-12 h-12 rounded-full overflow-hidden">
-              <img src="/partners/gccc.png" alt="GCCC Logo" className="w-full h-full object-cover" />
+              <img src="https://raw.githubusercontent.com/Chintu1308/flashmob2025/main/public/partners/gccc.png" alt="GCCC Logo" className="w-full h-full object-cover" />
               </div>
               <div>
                 <h3 className="text-xl font-bold">Gayatri College</h3>
