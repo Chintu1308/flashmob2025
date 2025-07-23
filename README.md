@@ -78,7 +78,6 @@ npm run deploy
 flashmob2025/
 ├── public/
 │   ├── event-poster.png
-│   ├── flashmob-poster.svg
 │   └── partners/
 ├── src/
 │   ├── components/
